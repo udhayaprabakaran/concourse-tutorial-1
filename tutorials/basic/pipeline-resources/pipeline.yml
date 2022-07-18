@@ -4,7 +4,7 @@ resources:
     type: git
     source:
       uri: https://github.com/udhayaprabakaran/concourse-tutorial-1.git
-      branch: develop
+      branch: master
 
 jobs:
   - name: job-hello-world
